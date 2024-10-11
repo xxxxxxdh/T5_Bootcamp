@@ -10,6 +10,4 @@ This folder contains Practical Evaluation for the first week of the T5 Bootcamp,
 
 These foundational topics are crucial for any data scientist. They provide the basic tools and skills needed to handle, clean, and visualize data effectively, setting the stage for more advanced analysis in the coming weeks.
 
-## Practical Evaluation:
-This week concludes with a Data Science Practical Evaluation & Theoretical Exam.
 
